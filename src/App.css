@@ -183,7 +183,7 @@ span {
     -moz-user-select: none;
     -webkit-user-select: none;
     -ms-user-select: none;
-    height: 60px;
+    height: 80px;
 }
 
 .set-score-btn {
@@ -192,6 +192,7 @@ span {
 
 #marine-img {
     position: absolute;
+    height: 100px;
     top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
